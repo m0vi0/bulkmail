@@ -1,6 +1,9 @@
 # bulkmail
 
-![GitHub stars](https://img.shields.io/github/stars/m0vi0/bulkmail.git?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/m0vi0/bulkmail.git?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/m0vi0/bulkmail.git?style=for-the-badge&logo=github) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub stars](https://img.shields.io/github/stars/m0vi0/bulkmail?style=for-the-badge&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/m0vi0/bulkmail?style=for-the-badge&logo=github)
+![GitHub issues](https://img.shields.io/github/issues/m0vi0/bulkmail?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📑 Table of Contents
 
